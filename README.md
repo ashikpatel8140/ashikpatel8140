@@ -2,6 +2,17 @@
 <h1 align="center">Hi 👋, I'm Ashik</h1>
 <h3 align="center">Full Stack Developer | JavaScript & TypeScript Enthusiast | MERN + MEAN | Problem Solver | Tech Enthusiast</h3>
 
+
+---
+
+### 🎨 Profile Banner
+
+<p align="center">
+  <img src="https://github.com/ashikpatel8140/ashikpatel8140/assets/banner2.png" alt="AVI Full Stack Developer Banner"/>
+</p>
+
+---
+
 ---
 
 ### 🧑‍💻 About Me

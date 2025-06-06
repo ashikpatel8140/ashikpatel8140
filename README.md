@@ -8,7 +8,7 @@
 ### 🎨 Profile Banner
 
 <p align="center">
-  <img src="https://github.com/ashikpatel8140/ashikpatel8140/blob/main/assets/banner2.png" alt="AVI Full Stack Developer Banner"/>
+  <img src="https://github.com/ashikpatel8140/ashikpatel8140/blob/main/assets/banner2.png" alt="AVI Full Stack Developer Banner" width="100%" height="500px"/>
 </p>
 
 ---

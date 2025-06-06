@@ -64,13 +64,6 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="150"/>
-</p>
-
 ---
 
 ### 📫 Let's Connect
